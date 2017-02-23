@@ -41,9 +41,9 @@ In this activity we'll cover the basics of programs in Erlang, and you'll write 
 
 Functions in Erlang
 In this activity we'll consider functions in Erlang. We'll introduce the key concept of recursion - both 'direct' and 'tail' recursion - for defining functions, and further explore the ideas of pattern matching.
-[ ] 1.18 RECURSION ON INTEGERS VIDEO (11:45)
-[ ] 1.19 RECURSION EXAMPLES ARTICLE
-[ ] 1.20 RECURSION EXAMPLES - FEEDBACK VIDEO (04:42)
+[x] 1.18 RECURSION ON INTEGERS VIDEO (11:45)
+[x] 1.19 RECURSION EXAMPLES ARTICLE
+[x] 1.20 RECURSION EXAMPLES - FEEDBACK VIDEO (04:42)
 [ ] 1.21 TAIL RECURSION VIDEO (06:22)
 [ ] 1.22 TAIL RECURSION - FEEDBACK VIDEO (06:55)
 [ ] 1.23 PATTERN MATCHING REVISITED VIDEO (06:28)
