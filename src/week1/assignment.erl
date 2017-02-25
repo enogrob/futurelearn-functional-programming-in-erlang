@@ -18,11 +18,29 @@ perimeter(S) ->
     2*math:pi()*R
   end.
 
-area(A) ->
-  A.
+area(S) ->
+    case S of
+      {rectangle, L, W} ->
+      L*W;
+      {square, X} ->
+      X*X;
+      {triangle, B, H} ->
+      (B*H)/2;
+      {circle, R} ->
+      math:pi()*R*R
+    end.
 
-enclose(A) ->
-  A.
+enclose(S) ->
+    case S of
+      {rectangle, L, W} ->
+      L*W;
+      {square, X} ->
+      X*X;
+      {triangle, B, H} ->
+      (B*H)/2;
+      {circle, R} ->
+      math:pi()*R*R
+    end.
 
 bits(V) ->
   bits(V, 0).

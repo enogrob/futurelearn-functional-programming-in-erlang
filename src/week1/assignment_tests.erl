@@ -19,6 +19,20 @@ perimeter_triangle_test() ->
 perimeter_circle_test() ->
   ?assertEqual(2*math:pi()*4, assignment:perimeter({circle,4})).
 
+
+area_rectangle_test() ->
+  ?assertEqual(8, assignment:area({rectangle,2,4})).
+
+area_square_test() ->
+  ?assertEqual(16, assignment:area({square,4})).
+
+area_triangle_test() ->
+  ?assertEqual(4.0, assignment:area({triangle,2,4})).
+
+area_circle_test() ->
+  ?assertEqual(math:pi()*4*4, assignment:area({circle,4})).
+
+
 bits0_test() ->
   ?assertEqual(0, assignment:bits(0)).
 
