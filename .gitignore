@@ -1,1 +1,3 @@
 .idea/
+src/week1/exercises/*.beam
+src/week1/assignment/*.beam

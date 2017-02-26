@@ -33,6 +33,14 @@ area_circle_test() ->
   ?assertEqual(math:pi()*4*4, assignment:area({circle,4})).
 
 
+enclose_rectangle_test() ->
+  ?assertEqual({rectangle,2,4}, assignment:enclose({rectangle,2,4})).
+enclose_triangle_test() ->
+  ?assertEqual({rectangle, math:sqrt((4*4)-(2*2)/4),4}, assignment:enclose({triangle,2,4})).
+enclose_circle_test() ->
+  ?assertEqual({rectangle, 4*2, 4*2}, assignment:enclose({circle,4})).
+
+
 bits0_test() ->
   ?assertEqual(0, assignment:bits(0)).
 
