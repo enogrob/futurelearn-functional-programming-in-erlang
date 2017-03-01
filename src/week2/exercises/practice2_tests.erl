@@ -7,8 +7,14 @@
 
 -include_lib("eunit/include/eunit.hrl").
 
-max_in_list1_test() ->
-  ?assertEqual(4, practice2:max_in_list([1,2,3,4])).
+double_test() ->
+  ?assertEqual([2,4,6,8], practice2:double_test([1,2,3,4])).
 
-max_in_list2_test() ->
-  ?assertEqual(30, practice2:max_in_list([1,2,30,4,5])).
+evens_test() ->
+  ?assertEqual([2,4], practice2:evens([1,2,3,4])).
+
+median_test() ->
+  ?assertEqual(2, practice2:median([1,2,3,4])).
+
+modes_test() ->
+  ?assertEqual(2, practice2:modes([1,2,3,4,2])).

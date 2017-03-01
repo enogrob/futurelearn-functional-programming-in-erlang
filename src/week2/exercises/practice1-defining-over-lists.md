@@ -34,7 +34,7 @@ Define an Erlang function to give the maximum of a list of numbers.
 * It’s not obvious what should be the value for the maximum of an empty list of numbers. You could therefore choose to define maximum on lists with at least one element only: to do this you will need to change the base case of the template.
 
 ```erlang
--module(practice2).
+-module(practice1).
 -export([max_in_list/1]).
 
 max_in_list(L) ->

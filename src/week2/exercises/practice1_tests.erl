@@ -12,3 +12,9 @@ prod_tail_test() ->
 
 prod_direct_test() ->
   ?assertEqual(24, practice1:prod_direct([1,2,3,4])).
+
+max_in_list1_test() ->
+  ?assertEqual(4, practice1:max_in_list([1,2,3,4])).
+  
+max_in_list2_test() ->
+  ?assertEqual(30, practice1:max_in_list([1,2,30,4,5])).

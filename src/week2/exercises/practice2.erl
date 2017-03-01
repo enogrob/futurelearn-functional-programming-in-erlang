@@ -1,10 +1,14 @@
 -module(practice2).
--export([max_in_list/1]).
+export([double/2, evens/1, median/1, modes/1]).
 
-max_in_list(L) ->
-  max_in_list(L, 0).
+double(L) ->
+  L.
 
-max_in_list([], C) ->
-    C;
-max_in_list([A|B], C) ->
-  max_in_list(B, max(A,C)).
+evens(L) ->
+  L.
+
+median(L) ->
+  L.
+
+modes(L) ->
+  L.
