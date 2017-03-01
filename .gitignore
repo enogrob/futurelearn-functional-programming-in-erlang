@@ -3,3 +3,4 @@ src/week1/exercises/*.beam
 src/week1/assignment/*.beam
 src/week2/exercises/*.beam
 src/week2/assignment/*.beam
+src/erlang_course/*

@@ -64,8 +64,8 @@ In this activity we explore the use of lists in Erlang. We'll be building and an
 [x] 2.6 DEFINING FUNCTIONS OVER LISTS IN PRACTICE ARTICLE
 [x] 2.7 MORE FUNCTIONS OVER LISTS VIDEO (09:11)
 [x] 2.8 TOWARDS PATTERNS FOR DEFINING FUNCTIONS VIDEO (07:04)
-[~] 2.9 CONSTRUCTING LISTS WITH RECURSIVE FUNCTIONS ARTICLE
-[ ] 2.10 INTRODUCTION TO LISTS: SUMMARY VIDEO (01:01)
+[x] 2.9 CONSTRUCTING LISTS WITH RECURSIVE FUNCTIONS ARTICLE
+[x] 2.10 INTRODUCTION TO LISTS: SUMMARY VIDEO (01:01)
 
 Where do I begin?
 In this activity we'll start to look at strategies for defining Erlang functions, using three example functions - 'take', 'nub' and 'palindrome'.
