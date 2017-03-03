@@ -69,14 +69,14 @@ In this activity we explore the use of lists in Erlang. We'll be building and an
 
 Where do I begin?
 In this activity we'll start to look at strategies for defining Erlang functions, using three example functions - 'take', 'nub' and 'palindrome'.
-[ ] 2.11 WHERE DO I BEGIN? VIDEO (03:21)
-[ ] 2.12 DEFINING THE 'TAKE' FUNCTION VIDEO (09:48)
-[ ] 2.13 THE 'NUB' FUNCTION VIDEO (01:36)
-[ ] 2.14 DEFINING THE 'NUB' FUNCTION VIDEO (12:56)
-[ ] 2.15 THE 'PALINDROME' FUNCTION VIDEO (01:18)
-[ ] 2.16 DEFINING THE 'PALINDROME' FUNCTION VIDEO (17:38)
-[ ] 2.17 HOW WELL DO YOU KNOW LISTS? QUIZ
-[ ] 2.18 CONSOLIDATION: FUNCTIONS OVER LISTS ARTICLE
+[x] 2.11 WHERE DO I BEGIN? VIDEO (03:21)
+[x] 2.12 DEFINING THE 'TAKE' FUNCTION VIDEO (09:48)
+[x] 2.13 THE 'NUB' FUNCTION VIDEO (01:36)
+[x] 2.14 DEFINING THE 'NUB' FUNCTION VIDEO (12:56)
+[x] 2.15 THE 'PALINDROME' FUNCTION VIDEO (01:18)
+[x] 2.16 DEFINING THE 'PALINDROME' FUNCTION VIDEO (17:38)
+[x] 2.17 HOW WELL DO YOU KNOW LISTS? QUIZ
+[x] 2.18 CONSOLIDATION: FUNCTIONS OVER LISTS ARTICLE
 
 Doing it yourself
 In this activity you'll tackle a bigger Erlang programming challenge, and share your work with others for review and feedback.
