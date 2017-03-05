@@ -13,6 +13,7 @@ Learn everything you need to about the subject of this `FutureLearn` project.
 
 [Homepage](https://www.futurelearn.com/courses/functional-programming-erlang)
 
+
 ## Topics
 ```
 WEEK 1: GETTING STARTED WITH ERLANG
@@ -80,11 +81,11 @@ In this activity we'll start to look at strategies for defining Erlang functions
 
 Doing it yourself
 In this activity you'll tackle a bigger Erlang programming challenge, and share your work with others for review and feedback.
-[ ] 2.19 DOING IT YOURSELF VIDEO (02:03)
-[ ] 2.20 PROGRAMMING CHALLENGE: INDEXING A FILE ASSIGNMENT
-[ ] 2.21 PROGRAMMING CHALLENGE: REVIEW REVIEW
-[ ] 2.22 PROGRAMMING CHALLENGE: REFLECTION REFLECTION
-[ ] 2.23 HOW ARE YOU GETTING ON WITH ERLANG? DISCUSSION
-[ ] 2.24 ERLANG PROGRAMS AND LISTS TEST
-[ ] 2.25 WEEK TWO SUMMARY VIDEO (01:35)
+[x] 2.19 DOING IT YOURSELF VIDEO (02:03)
+[x] 2.20 PROGRAMMING CHALLENGE: INDEXING A FILE ASSIGNMENT
+[x] 2.21 PROGRAMMING CHALLENGE: REVIEW REVIEW
+[x] 2.22 PROGRAMMING CHALLENGE: REFLECTION REFLECTION
+[x] 2.23 HOW ARE YOU GETTING ON WITH ERLANG? DISCUSSION
+[x] 2.24 ERLANG PROGRAMS AND LISTS TEST
+[x] 2.25 WEEK TWO SUMMARY VIDEO (01:35)
 ```
