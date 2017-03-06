@@ -88,4 +88,33 @@ In this activity you'll tackle a bigger Erlang programming challenge, and share 
 [x] 2.23 HOW ARE YOU GETTING ON WITH ERLANG? DISCUSSION
 [x] 2.24 ERLANG PROGRAMS AND LISTS TEST
 [x] 2.25 WEEK TWO SUMMARY VIDEO (01:35)
+
+
+WEEK 3: ADVANCED FUNCTIONAL PROGRAMMING Start date:
+Higher-order functions
+In this activity we'll introduce functional patterns and higher-order functions, looking at 'map', 'filter' and 'reduce' (or 'foldr').
+[x] 3.1 INTRODUCTION TO WEEK 3 VIDEO (01:28)
+[x] 3.2 FUNCTIONAL PATTERNS VIDEO (04:19)
+[x] 3.3 FROM SPECIFIC TO GENERIC: MAP VIDEO (04:40)
+[x] 3.4 FROM SPECIFIC TO GENERIC: FILTER AND REDUCE VIDEO (08:19)
+[x] 3.5 HIGHER-ORDER FUNCTIONS IN PRACTICE ARTICLE
+[x] 3.6 FEEDBACK ON HOFS VIDEO (05:46)
+
+Rock-paper-scissors
+In this activity you'll take on some programming exercises to model the game of rock-paper-scissors.
+[ ] 3.7 THE GAME OF ROCK-PAPER-SCISSORS VIDEO (02:33)
+[ ] 3.8 MODELLING THE BASICS OF ROCK-PAPER-SCISSORS ARTICLE
+[ ] 3.9 MODELLING STRATEGIES IN ROCK-PAPER-SCISSORS VIDEO (13:08)
+[ ] 3.10 FUNCTIONS AS RESULTS VIDEO (08:18)
+[ ] 3.11 FUNCTIONS AS RESULTS IN PRACTICE ARTICLE
+[ ] 3.12 STRATEGIES EXERCISES ARTICLE
+[ ] 3.13 ROCK-PAPER-SCISSORS SUMMARY VIDEO (05:14)
+
+Conclusion
+In this final activity we'll round off the course with discussion and reflection, and you'll have a chance to test yourself on your knowledge and understanding of Erlang.
+[ ] 3.14 RECAP QUIZ
+[ ] 3.15 ERLANG 'MASTER CLASSES' VIDEO (11:15)
+[ ] 3.16 WHAT DO YOU THINK ABOUT ERLANG? DISCUSSION
+[ ] 3.17 HOW WELL DO YOU KNOW ERLANG? TEST
+[ ] 3.18 SUMMARY AND CONCLUSION VIDEO (04:14)
 ```
