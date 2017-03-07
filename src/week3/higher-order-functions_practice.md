@@ -1,6 +1,6 @@
 **Higher-order functions in practice**
 
-This activity gives you a chance to work with the higher order functions `map`, `filter` and `reduce` (or foldr) and to define some HoFs for yourself.
+This activity gives you a chance to work with the higher order functions `map`, `filter` and `reduce` (or foldr) and to define some `HoFs` for yourself.
 
 **Using higher-order functions**
 
