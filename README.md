@@ -102,13 +102,13 @@ In this activity we'll introduce functional patterns and higher-order functions,
 
 Rock-paper-scissors
 In this activity you'll take on some programming exercises to model the game of rock-paper-scissors.
-[ ] 3.7 THE GAME OF ROCK-PAPER-SCISSORS VIDEO (02:33)
-[ ] 3.8 MODELLING THE BASICS OF ROCK-PAPER-SCISSORS ARTICLE
-[ ] 3.9 MODELLING STRATEGIES IN ROCK-PAPER-SCISSORS VIDEO (13:08)
-[ ] 3.10 FUNCTIONS AS RESULTS VIDEO (08:18)
-[ ] 3.11 FUNCTIONS AS RESULTS IN PRACTICE ARTICLE
-[ ] 3.12 STRATEGIES EXERCISES ARTICLE
-[ ] 3.13 ROCK-PAPER-SCISSORS SUMMARY VIDEO (05:14)
+[x] 3.7 THE GAME OF ROCK-PAPER-SCISSORS VIDEO (02:33)
+[~] 3.8 MODELLING THE BASICS OF ROCK-PAPER-SCISSORS ARTICLE
+[x] 3.9 MODELLING STRATEGIES IN ROCK-PAPER-SCISSORS VIDEO (13:08)
+[x] 3.10 FUNCTIONS AS RESULTS VIDEO (08:18)
+[~] 3.11 FUNCTIONS AS RESULTS IN PRACTICE ARTICLE
+[~] 3.12 STRATEGIES EXERCISES ARTICLE
+[x] 3.13 ROCK-PAPER-SCISSORS SUMMARY VIDEO (05:14)
 
 Conclusion
 In this final activity we'll round off the course with discussion and reflection, and you'll have a chance to test yourself on your knowledge and understanding of Erlang.
