@@ -1,4 +1,4 @@
-**Consolidation: functions over lists  View 42 comments**
+**Consolidation: functions over lists**
 
 The aim of these optional exercises is to help you to consolidate your work on defining functions over lists, if you would like to do some more practice.
 
