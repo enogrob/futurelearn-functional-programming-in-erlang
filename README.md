@@ -112,8 +112,15 @@ In this activity you'll take on some programming exercises to model the game of 
 
 Conclusion
 In this final activity we'll round off the course with discussion and reflection, and you'll have a chance to test yourself on your knowledge and understanding of Erlang.
-[ ] 3.14 RECAP QUIZ
-[ ] 3.15 ERLANG 'MASTER CLASSES' VIDEO (11:15)
+[x] 3.14 RECAP QUIZ
+[x] 3.15 ERLANG 'MASTER CLASSES' VIDEO (11:15)
+    [x] Introduction to language processing (09:09)
+    [x] Representing structured data (06:31)
+    [x] Using recursion: pretty printing (10:22)
+    [x] Evaluation expressions (08:46)
+    [ ] Compiling and running on a virtual machine (16:04)
+    [ ] Parsing (14:53)
+    [ ] Simplification (17:22)
 [ ] 3.16 WHAT DO YOU THINK ABOUT ERLANG? DISCUSSION
 [ ] 3.17 HOW WELL DO YOU KNOW ERLANG? TEST
 [ ] 3.18 SUMMARY AND CONCLUSION VIDEO (04:14)
