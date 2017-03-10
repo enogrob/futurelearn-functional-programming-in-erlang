@@ -118,10 +118,10 @@ In this final activity we'll round off the course with discussion and reflection
     [x] Representing structured data (06:31)
     [x] Using recursion: pretty printing (10:22)
     [x] Evaluation expressions (08:46)
-    [ ] Compiling and running on a virtual machine (16:04)
-    [ ] Parsing (14:53)
-    [ ] Simplification (17:22)
-[ ] 3.16 WHAT DO YOU THINK ABOUT ERLANG? DISCUSSION
-[ ] 3.17 HOW WELL DO YOU KNOW ERLANG? TEST
-[ ] 3.18 SUMMARY AND CONCLUSION VIDEO (04:14)
+    [x] Compiling and running on a virtual machine (16:04)
+    [x] Parsing (14:53)
+    [x] Simplification (17:22)
+[x] 3.16 WHAT DO YOU THINK ABOUT ERLANG? DISCUSSION
+[x] 3.17 HOW WELL DO YOU KNOW ERLANG? TEST
+[x] 3.18 SUMMARY AND CONCLUSION VIDEO (04:14)
 ```
