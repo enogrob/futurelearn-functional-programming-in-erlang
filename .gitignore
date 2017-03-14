@@ -1,8 +1,8 @@
 .idea/
-src/week1/exercises/*.beam
+src/week1/practices/*.beam
 src/week1/assignment/*.beam
-src/week2/exercises/*.beam
+src/week2/practices/*.beam
 src/week2/assignment/*.beam
-src/week3/exercises/*.beam
+src/week3/practices/*.beam
 src/week3/assignment/*.beam
 src/erlang_course/*
