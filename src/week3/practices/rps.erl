@@ -50,9 +50,9 @@ play(Strategy,Moves) ->
 %
 
 % transform shorthand atoms to expanded form
-    
+
 expand(r) -> rock;
-expand(p) -> paper;		    
+expand(p) -> paper;
 expand(s) -> scissors;
 expand(X) -> X.
 
@@ -128,8 +128,12 @@ no_repeat([X|_]) ->
 const(Play) ->
     dummy.
 
+cycle([]) ->
+    [];
+cycle([X | Xs]) ->
+    X;
 cycle(Xs) ->
-    dummy.
+    Xs.
 
 rand(_) ->
-    dummy.
+    enum(crypto:rand_uniform(0,3)).
